@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/135490/161689943-72898a04-b4fa-4a5e-98b0-030f02744c5b.png)
+<img align='right' src="https://user-images.githubusercontent.com/135490/161690395-145e3c7d-f58f-4036-b14a-25c62818d2cc.png" width="400">
 
 ![version :05.Nov.2021](https://img.shields.io/badge/version-05.Nov.2021-informational)
 
