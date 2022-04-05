@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Vidur Satija: meme lord
+
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :05.Nov.2021](https://img.shields.io/badge/version-05.Nov.2021-informational)
 
