@@ -3,11 +3,11 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :05.Nov.2021](https://img.shields.io/badge/version-05.Nov.2021-informational)
 
-[![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/kputtur)
-[![website](https://img.shields.io/badge/website-kputtur.github.io-informational)](https://kputtur.github.io)
+[![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/kputtur)]
+[![website](https://img.shields.io/badge/website-kputtur.github.io-informational)](https://kputtur.github.io)]
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kiran Puttur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranputtur/)](https://www.linkedin.com/in/kiranputtur/)
-[![Medium Badge](https://img.shields.io/badge/-@kiranputtur-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kiranputtur/)](https://medium.com/@kiranputtur)
+[![Linkedin Badge](https://img.shields.io/badge/-Kiran Puttur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranputtur/)](https://www.linkedin.com/in/kiranputtur/)]
+[![Medium Badge](https://img.shields.io/badge/-@kiranputtur-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kiranputtur/)](https://medium.com/@kiranputtur)]
 
 **kputtur/kputtur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
