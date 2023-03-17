@@ -14,7 +14,7 @@
 ![Medium Badge](https://img.shields.io/badge/-@kiranputtur-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kiranputtur/)
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy writing lot of stupid stuff in my spare time and tinker with wierd pieces of old hardware like 8bit or 16bit CPUs
+- ⚡ Fun fact: I enjoy writing lot of embedded boring stuff in my spare time and tinker with wierd pieces of old hardware like 8bit or 16bit CPUs
 
 ![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)
 ![website](https://img.shields.io/badge/website-kputtur.github.io-informational)
