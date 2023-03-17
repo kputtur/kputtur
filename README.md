@@ -5,7 +5,7 @@
 
 ## About Me 
 
-- 🔭 I’m currently working with Nvidia as Embedded Engineering Leader, managing large teams developing cutting edge technologies in Autnomous Driving.
+- 🔭 I’m currently working with Nvidia as Embedded Engineering Leader, managing large teams developing cutting edge technologies in Autonomous Driving.
 - 🌱 I’m currently learning Ada, Spark for Mission Critical Application writing.
 - 👯 I’m looking to collaborate on Machine Learning, Compiler Optimization (LLVM), Real Time Ray Tracing.
 - 🤔 I’m looking for help with ISO26262, Functional Safety, High Performance Computing, Autonomous Driving solutions
